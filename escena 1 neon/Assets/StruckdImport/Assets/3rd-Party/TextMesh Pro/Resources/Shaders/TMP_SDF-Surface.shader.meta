@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ec633c29a464ab741be0c90d3ae04d7d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: shared/shaders/text_mesh_pro
+  assetBundleVariant: 
